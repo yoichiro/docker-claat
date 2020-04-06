@@ -1,7 +1,7 @@
 FROM ubuntu:18.04
 
 # User Name
-ARG USERNAME=yoichiro6642
+ARG USERNAME=yoichiro
 
 # Install Dependencies
 RUN apt-get update && \
